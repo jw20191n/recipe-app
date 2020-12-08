@@ -33,4 +33,9 @@ export class RecipeService {
         //create a new array which is a copy of the this.recipes file
         return this.recipes.slice();
     }  
+
+    getRecipe(index: number){
+        console.log(index);
+        return this.recipes.slice()[index];
+    }
 }
