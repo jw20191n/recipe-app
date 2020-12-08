@@ -1,5 +1,7 @@
 # RecipeApp
 
+This is a code along project with the Udemy Angular the complete guide 2020
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
